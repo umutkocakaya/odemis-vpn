@@ -1,6 +1,7 @@
 {
   "versionCode": 3,
-  "versionName": "1.2",
+  "versionName": "1.2.1",
   "apkUrl": "https://github.com/umutkocakaya/odemis-vpn/releases/latest/download/ODEMIS-VPN.apk",
-  "changelog": "• GitHub üzerinden otomatik güncelleme altyapısı eklendi.\n• Animasyonlu Power butonu ve canlı trafik sayaçları eklendi.\n• Bağlantı optimizasyonları ve hata düzeltmeleri yapıldı."
+  "sha256": "8d526a09c004225244afc97908247c5ea904923b8c3cc00869923efad2c4816a",
+  "changelog": "• Bildirim Çekmecesi Kontrolü: Bildirim çekmecesine kalıcı durum kartı ve tek tıkla 'Bağlantıyı Kes' butonu eklendi.\n• Güvenlik Güncellemesi: Akıllı SSL Sertifika Doğrulaması (TOFU & Pinning) eklendi.\n• Profil şifreleri cihaz-tabanlı AES-128 ile şifrelendi.\n• OTA indirmelerine SHA-256 bütünlük kontrolü eklendi.\n• USB/ADB yedekleme kısıtlamaları getirildi."
 }
