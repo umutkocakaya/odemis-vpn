@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/umutkocakaya/odemis-vpn/releases/latest/download/ODEMIS-VPN.apk",
+  "changelog": "• GitHub üzerinden otomatik güncelleme altyapısı eklendi.\n• Animasyonlu Power butonu ve canlı trafik sayaçları eklendi.\n• Bağlantı optimizasyonları ve hata düzeltmeleri yapıldı."
+}
